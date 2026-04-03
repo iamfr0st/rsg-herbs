@@ -213,7 +213,7 @@ By default, access is granted when the player has:
 
 Edited zones are saved to:
 
-[`E:\[RedM]\[fr0st scripts]\rsg-herbs\data\zones.json`](E:\[RedM]\[fr0st scripts]\rsg-herbs\data\zones.json)
+rsg-herbs\data\zones.json
 
 Important behavior:
 
