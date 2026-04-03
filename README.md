@@ -298,6 +298,6 @@ Before moving this to production, you will usually want to:
 
 ## Credits
 
-- Author: `fr0st / Codex`
+- Author: `fr0st`
 - Framework: `rsg-core`
 - UI/helpers: `ox_lib`
