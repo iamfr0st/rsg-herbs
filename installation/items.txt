@@ -1,0 +1,4 @@
+yarrow      = {name = 'yarrow',      label = 'Yarrow',      weight = 10, type = 'item', image = 'herb_yarrow.png',      unique = false, useable = true, shouldClose = true, description = 'Yarrow Herb'},
+	burdock_root      = {name = 'burdock_root',      label = 'Burdock Root',      weight = 10, type = 'item', image = 'herb_burdock_root.png',      unique = false, useable = true, shouldClose = true, description = 'Burdock Root'},
+	ginseng      = {name = 'ginseng',      label = 'Ginseng',      weight = 10, type = 'item', image = 'herb_ginseng.png',      unique = false, useable = true, shouldClose = true, description = 'Ginseng'},
+	organic_firstaid      = {name = 'organic_firstaid',      label = 'Organic First Aid',      weight = 100, type = 'item', image = 'consumable_bandage_herbal.png',      unique = false, useable = true, shouldClose = true, description = 'Organic First Aid'},
