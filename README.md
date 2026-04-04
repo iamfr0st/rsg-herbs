@@ -301,3 +301,7 @@ Before moving this to production, you will usually want to:
 - Author: `fr0st`
 - Framework: `rsg-core`
 - UI/helpers: `ox_lib`
+
+## License
+
+GPL‑3.0
